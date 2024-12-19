@@ -1,5 +1,5 @@
 import pytest
-from Dict.main import Dict
+from main import Dict
 
 class TestDict:
     def test_iloc_invalid_key(self):
